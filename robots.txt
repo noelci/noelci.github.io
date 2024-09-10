@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://noelci.github.io/fcG/sitemap.fcG.gz
